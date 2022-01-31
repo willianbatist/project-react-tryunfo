@@ -1,0 +1,47 @@
+.formApp {
+  display: flex;
+  flex-direction: column;
+}
+
+.listCard {
+  list-style: none;
+}
+
+.sectionAddCart {
+  display: flex;
+}
+
+.formComponent {
+  width: 50%;
+}
+
+.cardComponent {
+  width: 50%;
+}
+
+textarea, select, button, input {
+  display: block;
+}
+
+h2 {
+  text-align: center;
+}
+
+.cardList {
+  display: block;
+}
+
+img{
+  width: 200px;
+}
+
+.card {
+  width: 400px;
+}
+
+.cardItem{
+  align-items: center;
+  background-color: aqua;
+  display: flex;
+  width: 400px;
+}
